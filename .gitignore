@@ -1,18 +1,1 @@
-# Python
-__pycache__/
-*.pyc
 
-# VS Code
-.vscode/
-
-# CFD / OpenFOAM intermediates
-cfd/**/processor*/
-cfd/**/constant/polyMesh/
-cfd/**/0.orig/
-cfd/**/logs/
-cfd/**/postProcessing/
-**/*.foam
-
-# 3D/CAD temp
-cad/**/autosave/
-*.tmp
