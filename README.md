@@ -24,6 +24,11 @@
   鼻錐全部使用玻璃纖維布搭配環氧樹脂，加重則使用環氧沙漿加小鋼珠。
   - 細節製作：
     使用3D列印印出模具，在其中鋪上一層一層玻璃纖維布，製作不易且易變形，使我們最後鼻錐有些凹凸不平且與箭身不太吻合
+<p align="center">
+  <img src="https://github.com/bonny-chen81/northbound-train/blob/main/nosecone.jpg" width="45%" />
+  <img src="https://github.com/bonny-chen81/northbound-train/blob/main/nosecone2.jpg" width="45%" />
+</p>
+
 - 改進方向：
   
   當初沒有使用3D列印為鼻錐主要材料是因為那時候推測3D列印有可能融化且較脆弱，但實際上在參加完比賽還有後來各種不同的展覽後，很多專業組別都表示使用3D列印鼻錐目前還沒有遇到融化問題，且強度問題可以靠在3D列印完的鼻錐上再鋪玻璃纖維布來加強，這樣不僅可以解決控制形狀的問題與加工不易，也可以避免因多次重複鋪而厚度不一的問題。
